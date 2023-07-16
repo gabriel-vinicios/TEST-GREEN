@@ -26,10 +26,7 @@ router.post("/boletos", multerConfig.single("file"), boletoController.create)
 // atividade 3
 router.post("/importPdf", uploadStorage.single("file"), boletoController.importPdf)
 
-// atividade 4
+// atividade 4 e 5
 router.get("/boletos", boletoController.getBoletos)
-
-
-//atividade 5
 
 export { router }
