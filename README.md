@@ -1,0 +1,1 @@
+Saibam que o desenvolvedor desse programa não usa Postman, mas sim Insomnia. Tudo que foi desenvolvido aqui foi testado no Insomnia.
